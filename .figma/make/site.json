@@ -1,0 +1,10 @@
+{
+  "description": "Explore NOVA, a collaboration platform for teams seeking smarter workflows, with product features, demo pricing, customer stories, and a guided signup experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
